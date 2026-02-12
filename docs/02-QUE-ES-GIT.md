@@ -163,7 +163,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
 
 ### Checkpoint 1: Entiendes el Problema ✅
 
-- [ ] Leo: "El Caos sin Git"
+- [x] Leo: "El Caos sin Git"
 - [ ] **Verificación:** Piensa en el problema real:
   - "¿Cómo colaborarían 4 compañeros sin Git?"
   - Escribe al menos 1 problema en tu mente (ej: sobrescribir archivos)
