@@ -213,7 +213,7 @@ Sube tu rama `main` a GitHub.
 - [x] En tu computadora, ejecuté `git remote add origin <URL>`
 - [x] Ejecuté `git push -u origin main`
 - [x] El push se completó sin errores
-- [x] **Verificación Paso 1:**
+- [x] **Verificacion Paso 1:**
   ```bash
   git remote -v
   ```
