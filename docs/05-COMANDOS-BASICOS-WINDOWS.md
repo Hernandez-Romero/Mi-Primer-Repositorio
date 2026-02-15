@@ -377,7 +377,7 @@ git push                          # Subir tus cambios
 - [x] Puedo crear y ver un repositorio
 - [x] Sé los 4 comandos esenciales
 - [x] Puedo resolver problemas comunes
-- [x] Completé el ejercicio práctico
+- [ ] Completé el ejercicio práctico
 
 ---
 
